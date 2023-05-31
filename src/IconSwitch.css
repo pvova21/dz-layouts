@@ -1,0 +1,16 @@
+.btn_wrapper {
+    text-align: right;
+}
+
+.btn {
+    border: none;
+    outline: none;
+    background-color: #fff;
+    color: #696969;
+
+}
+
+.material-icons {
+    cursor: pointer;
+
+}
